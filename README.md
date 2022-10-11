@@ -1,5 +1,5 @@
 The dataset consists of 19,000 job postings that were posted through the Armenian human resource portal CareerCenter. The data was extracted from the Yahoo! mailing group https://groups.yahoo.com/neo/groups/careercenter-am. 
-*This was the only online human resource portal in the early 2000s.
+*This was the only online human resource portal in the early 2000s.*
 A job posting usually has some structure, although some fields of the posting are not necessarily filled out by the client (poster). The data was cleaned by removing posts that were not job related or had no structure.
 The data consists of job posts from 2004-2015
 
